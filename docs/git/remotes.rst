@@ -35,8 +35,8 @@ the moment, it's the only remote you have::
 	
 It's very useful for Git to know about other remote repositories too. For
 example, at the end of the previous section, we considered a conflict between
-your GitHub fork and and the upstream GitHub repository. The only way to fix
-that is locally, on the command line, and by being able to refer to both those
+your GitHub fork and the upstream GitHub repository. The only way to fix
+that is locally, on the commandline, and by being able to refer to both those
 remotes.
 
 Now you *can* refer to a remote using its full address:

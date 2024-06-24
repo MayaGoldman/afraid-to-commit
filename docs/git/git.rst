@@ -55,7 +55,7 @@ Your copy is at ``https://github.com/<your github account>/afraid-to-commit/``.
    About angular brackets
 
     Angular brackets, such as those in the line above, are used as placeholders; 
-    they do not need to be included in the command line terminal. Just write in your 
+    they do not need to be included in the commandline terminal. Just write in your 
     GitHub account name. The same applies for any angular brackets used throughout
     the tutorial. 
 
@@ -238,10 +238,10 @@ because the changes will be coming from *my version* to *yours*.
         <your github account>:master ... evildmp:master
 
 #.  hit **Click to create a pull request for this comparison**
-#.  add a **Title** (e.g. "merging upstream master on Github) and hit **Send
+#.  add a **Title** (e.g. "merging upstream master on Github") and hit **Send
     pull request**
 
-You're sending a pull request to to *yourself*, based on updates in my
+You're sending a pull request to *yourself*, based on updates in my
 repository. And in fact if you check in your **Pull Requests** on GitHub,
 you'll see one there waiting for you, and you too can review, accept, reject
 or comment on it.
